@@ -1,0 +1,45 @@
+@font-face {
+    font-family: 'klinic_slabbook';
+    src: url('../fonts/klinicslabbook-webfont.eot');
+    src: url('../fonts/klinicslabbook-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/klinicslabbook-webfont.woff') format('woff'),
+         url('../fonts/klinicslabbook-webfont.ttf') format('truetype'),
+         url('../fonts/klinicslabbook-webfont.svg#klinic_slabbook') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+body {
+   background: #20212D;
+   text-align: center;
+   color: #fff;
+   font-family: "klinic_slabbook", arial, sans-serif;
+}
+
+a {color: #fff;text-decoration: none;}
+a:hover {border-bottom: 1px solid #fff;}
+
+header > img {
+    padding: 1.5em 0 0;
+}
+header > div {
+    margin: 0 auto;
+    max-width: 480px;
+}
+h1 {
+    display: flex;
+    align-items: center;
+}
+h1::before,
+h1::after {
+    content: '';
+    display: inline-block;
+    width: 23%;
+    height: 2px;
+    background-color: #fff;
+    vertical-align: middle;
+}
+h1 > span {
+    padding: 0 0.6em;
+}
