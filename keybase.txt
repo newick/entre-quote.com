@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/newick
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://entre-quote.com
+  * I am newick (https://keybase.io/newick) on keybase.
+  * I have a public key ASDtA3N1tjln1RvEJmFh7zEUr6T3dg3kOtmPpQY4aMhvQgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120ed037375b63967d51bc4266161ef3114afa4f7760de43ad98fa5063868c86f420a",
+      "host": "keybase.io",
+      "kid": "0120ed037375b63967d51bc4266161ef3114afa4f7760de43ad98fa5063868c86f420a",
+      "uid": "a7c2b24fa3965cfcf75b1875bffbaa19",
+      "username": "newick"
+    },
+    "merkle_root": {
+      "ctime": 1554642425,
+      "hash": "5c72656c3e9297e71a76cece843d89eb257794df8ccf3a8e214c79d47d0d84c5eebc69987ce83f32d8e4d361d5820476c53bda86edb1222b0d3218179d71458a",
+      "hash_meta": "05b304319b0286ec6bc856a3564f12dd852ed334991b1618ff5310fed30e1ad3",
+      "seqno": 5112581
+    },
+    "service": {
+      "entropy": "7E+MGu1MJJKHvw+4clHqjKuG",
+      "hostname": "entre-quote.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "3.1.2"
+  },
+  "ctime": 1554642464,
+  "expire_in": 504576000,
+  "prev": "1d7f2af997419c1bd422751e65934409ae0bdebe504e72749ca6aff79ef27cfb",
+  "seqno": 17,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg7QNzdbY5Z9UbxCZhYe8xFK+k93YN5DrZj6UGOGjIb0IKp3BheWxvYWTESpcCEcQgHX8q+ZdBnBvUInUeZZNECa4L3r5QTnJ0nKav957yfPvEIMamAGEpaWndv5iTVm6SWR0/ZpBjz1CzFZDjYz/1o/aFAgHCo3NpZ8RApb6VuVa88C/4Nyll0tCH0MeOHq/BiKsMFd5OQJSv5hmYkKHKpwaIIPBwBIFDF+WbOuBVaXtdhvEEDvS6gmDJCqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMlyhXLKO4LaJX5xxpEGa+YbO/f2ZDVJ+9r9oZG8TVrHo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/newick
+
+==================================================================
