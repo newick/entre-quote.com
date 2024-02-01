@@ -1,0 +1,297 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  -moz-text-size-adjust: none;
+  -webkit-text-size-adjust: none;
+  text-size-adjust: none;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+p,
+figure {
+  margin-block-end: 0;
+}
+
+body {
+  margin: 0;
+  font-family: Helvetica, sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  line-height: 1.1;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  text-wrap: balance;
+}
+
+h1,
+h2 {
+  text-transform: uppercase;
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+}
+
+h3 {
+  font-size: 1.3rem;
+}
+
+h4 {
+  font-size: 1.15rem;
+}
+
+a:not([class]) {
+  text-decoration-skip-ink: auto;
+  color: currentColor;
+}
+
+img,
+picture {
+  max-width: 100%;
+  display: block;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: "";
+}
+
+header {
+  padding-block: 2rem;
+  color: white;
+  background-color: #20212d;
+}
+
+header h1,
+header h2 {
+  margin-block-start: 0;
+}
+
+header h1 {
+  margin-block-end: 2rem;
+}
+
+header h2 {
+  font-weight: normal;
+  text-transform: none;
+}
+
+header .container > div {
+  display: flex;
+  justify-content: space-between;
+}
+
+.container {
+  max-width: 80ch;
+  margin-inline: auto;
+}
+
+section:not(:first-of-type) {
+  border-top: 3px solid #000;
+}
+section h2 {
+  margin-block-end: 2rem;
+}
+
+article {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+section:first-of-type article,
+article:not(:first-of-type) {
+  padding-block-start: 1.5rem;
+}
+
+section:first-of-type article:first-of-type {
+  background-color: gainsboro;
+}
+article:not(:first-of-type) {
+  border-top: 1px solid #000;
+}
+
+article h3 {
+  flex-basis: 100%;
+}
+
+article h3,
+article h4 {
+  margin-block-start: 0;
+}
+
+article h4:not(:first-of-type) {
+  margin-block-start: 1.4rem;
+}
+
+section:not(:last-of-type) article > div:nth-child(even),
+section:last-of-type article > div:nth-child(odd) {
+  width: 20%;
+  font-weight: bold;
+}
+section:not(:last-of-type) article > div:nth-child(odd),
+section:last-of-type article > div:nth-child(even),
+section:not(:last-of-type) article > div:nth-child(even).printable {
+  width: calc(80% - 1.5rem);
+}
+
+article ul {
+  list-style-type: disc;
+  padding-inline-start: 1rem;
+}
+
+blockquote {
+  font-weight: bold;
+  font-size: 1.125rem;
+  margin-block-start: 2rem;
+  margin-inline: 0;
+  font-weight: normal;
+}
+
+blockquote::before {
+  content: "\201C";
+}
+blockquote::after {
+  content: "\201D";
+}
+
+@media screen {
+  body {
+    min-height: 100vh;
+    font-size: 110%;
+    line-height: 1.5;
+  }
+  .not-printable {
+    display: inline-block;
+  }
+  .printable {
+    display: none;
+  }
+
+  article {
+    padding: 0 1.5rem 1.5rem;
+  }
+}
+
+@media print {
+  .not-printable {
+    display: none;
+  }
+  section:not(:last-of-type) article > div:nth-child(even).printable {
+    display: inline-block;
+    font-weight: normal;
+  }
+  body {
+    font-size: 10pt;
+    line-height: 1.2;
+  }
+
+  .container {
+    max-width: 90%;
+  }
+
+  h1 {
+    font-size: 20pt;
+  }
+  h2 {
+    font-size: 16pt;
+  }
+  h3 {
+    font-size: 14pt;
+  }
+  h4 {
+    font-size: 12pt;
+  }
+
+  header {
+    padding-block: 12pt;
+    color: #000;
+    background: none;
+  }
+
+  header h1 {
+    margin-block-end: 12pt;
+  }
+
+  header a {
+    font-size: 11pt;
+  }
+
+  blockquote {
+    font-size: 12pt;
+  }
+
+  section:not(:last-of-type) > article > div:nth-child(even),
+  section:last-of-type > article > div:nth-child(odd) {
+    width: 10%;
+  }
+  section:not(:last-of-type) > article > div:nth-child(odd),
+  section:last-of-type > article > div:nth-child(even),
+  section:not(:last-of-type) > article > div:nth-child(even).printable {
+    width: calc(90% - 1.5rem);
+  }
+
+  section:first-of-type article,
+  article:not(:first-of-type) {
+    padding-block-start: 10pt;
+  }
+
+  section:first-of-type article p {
+    margin-block-start: 5pt;
+  }
+
+  article:not(:first-of-type) h4 {
+    font-size: 10pt;
+  }
+
+  section h2 {
+    margin-block: 0;
+  }
+
+  article {
+    padding: 0 0 10pt;
+  }
+
+  .schools {
+    display: flex;
+    gap: 10pt;
+    padding-block-start: 10pt;
+  }
+  .schools article:not(:first-of-type) {
+    padding-block-start: 0;
+    border: none;
+  }
+  .schools h2 {
+    margin-block-start: 0;
+  }
+  .schools h3 {
+    font-size: 12pt;
+  }
+  .schools + section {
+    padding-block-start: 10pt;
+  }
+  .schools + section h2 {
+    margin-block-end: 10pt;
+  }
+}
