@@ -1,0 +1,32 @@
+Title: Mentions légales et colophon
+
+----
+
+Text:
+
+# Mentions légales
+
+## Création et modification
+
+Érick Gardin 
+erick@entre-quote.com
+
+## Hébergement
+
+Github ? Infomaniak ?
+
+# Colophon
+
+## Contenu
+
+## Design et code
+
+Mijoté avec HTML et CSS dans la cocotte (link: https://getkirby.com/ text: Kirby)
+
+## Typographie
+
+## Illustrations
+
+----
+
+Uuid: 07A9MkMn5VjrxADA

@@ -1,0 +1,49 @@
+Title: Qui suis-je
+
+----
+
+Text:
+
+Salut,
+moi c'est Érick (avec un k) Gardin, j'habite vers Montpellier. 
+> J’ai ouvert dans ma rue une auberge de jeunesse, […] une bonne adresse. Des clients j’en ai deux, une fille et un garçon.
+> Je croise assez souvent la maîtresse des lieux. Ils l’appellent Maman […] C’est de bonne guerre qu’ils nous appellent leurs parents.
+
+Librement inspiré de la chanson "Auberge de Jeunesse" chantée par CharlÉli Couteur sur l'album "(link: https://lesogres.com/vie-dogres/discographie/pitt-ocha-et-le-velo-a-propulsion-phonique text: Pitt Ocha et le vélo à propulsion phonique)" des Ogres de Barback.
+
+## Gagner de quoi nourrir le corps
+
+Je gagne ma vie en tant qu'**intégrateur web** depuis plus de 15 ans. 
+Je travaille sur des produits basés sur les technologies de l'Internet modernes sur des (link: page://NvJpTQcGv4JEXslm text: projets) divers.
+
+J'ai à cœur d'offrir une expérience la plus agréable possible à l'utilisateur·ice. Pour cela j'utilise du HTML sémantique et du CSS aux petits oignons. Quand il faut rajouter du JS je le fais de façon minimaliste.
+Je n'ai pas de langage de développement de prédilection, je préfère laisser cela aux développeur·euses avec qui je travaille et je m'adapte.
+*Blabla accessibilité, bonnes pratiques*
+
+J'ai fait une (link: page://6ajTuwKSRGOuyz1i text: page CV) pour en savoir plus
+
+Je suis actuellement salarié de (link: https://lechappeebelle.team/ text: l'Échappée Belle) qui est une association de bienfaiteur·ices. Certains disent que ça ressemblent à une CAE ou une SCOP. Peut-être, en tout cas avec la création et la gestion sont bien plus simples.
+Pas de gros changement avec mon fonctionnement d'auto-entrepreneur sauf que j'ai des collègues, que je cotise pour de vrai. 
+
+## Nourrir les relations
+
+J'aime faire des projets avec des gens pour les gens, de préférence en auto-gestion.
+
+### Cowork'in Montpellier
+
+En 2012, on se retrouve entre devs à se dire qu'on en a assez de travailler chez nous, c'est le début de la "mode" des espaces de coworking. On monte une (link: https://coworkinmontpellier.org/asso.html text: association), on trouve un local en fin de bail et c'est parti. Ça a entrainé des rencontres, des galères, des fous rires, des prises de tête. 
+Une aventure que j'ai quitté avec l'arrivée du premier et qui continue toujours, ça a entrainé un (link: https://newick.github.io/cookbook/2018/02/quitter-ou-rester/ text: billet de blog)
+
+### La Crémerie
+
+Où comment on est passé d'un projet de supermarché coopératif à une épicerie collaborative autogérée. Réduire la voilure pour prendre plus de plaisir.
+
+### Gratiferia
+
+Offrir un lieu et un moment de don / récupération sans notion d'argent. 
+En gagner la joie de voir des personnes repartir avec des objets qui leur font plaisir et de permettre à des choses qui sont considérées comme inutiles  d'avoir une nouvelle vie. 
+Et perdre des points de foi dans l'humanité quand on regarde ce que certaines personnes donnent, du cassé, du sale, du pas complet.
+
+----
+
+Uuid: IRvmrDoI8KE6V27u
