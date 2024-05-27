@@ -1,0 +1,48 @@
+Title: En ce moment
+
+----
+
+Date: 2024-05-27
+
+----
+
+Text:
+
+## Je travaille sur
+
+- la refonte du site (link: https://bipolar-production.com/ text: bipolar-production.com) sur Kirby avec l'agence (link: https://contextdesign.fr/ text: Context) ;
+- le site du collectif (link: https://utopisme.fr/ text: Utopisme) sur Kirby avec (link: https://www.instagram.com/toutfeutoutfemme.fr/ text: Charlotte Le Bihan) ;
+- le site de Charlotte Le Bihan.
+
+## Projets à côté
+
+- toujours un peu de (link: https://scribouilli.org/ text: Scribouilli) qui permet de créer des petits sites simplement. 
+Je le propose à des personnes qui veulent faire un site simple, quitte à faire un thème personnalisé ;
+- je suis la formation de (link: https://www.sarasoueidan.com/ text: Sara Soueidan) qui s'appelle (link: https://practical-accessibility.today text: Practical Accessibility), ça me fait travailler mon anglais autrement qu'en regardant des séries et surtout avancer sur l'accessibilité ;
+- on se retrouve en juin pour parler de (link: https://www.dismoi.io/ text: DisMoi) avec une partie de l'équipe ; 
+
+## Bientôt
+
+- la formation (link: https://formations.access42.net/formations/formation-developpement-accessible/ text: Développer des sites web accessibles et conformes au RGAA) proposée par Access42 ;
+- j'espère la mise en ligne de la refonte Unaforis faite avec l'agence (link: https://plume.fr text: Plume), c'est un beau projet à raconter ici ;
+- peut-être des projets issues de ma liste d'(link: page://EfScvWlWmFSiXG6R text: idées)
+
+## Hors travail
+
+### Dans le coin
+
+- toujours impliqué dans le fonctionnement de l'épicerie collaborative (link: https://www.lacremerie-coop.fr/ text: la Crémerie). Des approvisionnements de la (link: https://www.serieslimitees.com/ text: copine qui fait des conserves) et des bières des copains du (link: http://ledetour.beer/ text: Détour). 
+J'ai en projet de réécrire les statuts pour les simplifier et les faire correspondre à notre fonctionnement quotidien ;
+- je suis dans l'association qui a pour objet l'organisation d'événements culturels, festifs et familiaux dans le village. 
+On a organisé 2 années de suite le carnaval, cette année un festival de contes. Dans les idées qui trainent : un bal trad avec découverte l'après-midi et concert(s) le soir, encore des contes (?), et voir ce que le collectif à envie de proposer ;
+- je participe à l'organisation de Gratiferia. C'est comme un troc sans échanges, une vide-grenier sans argent. Chacun·e donne ce qu'iel veut et tout le monde peut prendre ce qui est nécessaire ou fait plaisir. La dernière était début mai, la prochaine peut-être avant Noël ;
+- on est plusieurs à vouloir parler d'échanges de matériel ou service, on va voir vers quoi ça peut aller.
+
+### À la maison 
+
+- ne pas laisser mourir le potager : les patates sont en fleurs, les courgettes aussi. Les fraises se font bouffer par les fourmis, les framboises sont vertes, il reste quelques cerises faut les ramasser avant les étourneaux ;
+- voir où construire une cabane pour et avec les enfants.
+
+----
+
+Uuid: 1qWzoi99lymGZdVY

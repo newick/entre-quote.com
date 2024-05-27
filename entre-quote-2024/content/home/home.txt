@@ -1,4 +1,18 @@
-Title: Home
+Title: Accueil
+
+----
+
+Text:
+
+Je m'appelle (link: page://IRvmrDoI8KE6V27u text: Érick) et je suis développeur d'expérience utilisateur.
+Les anglophones utilisent le terme UX Developer, en France on disait intégrateur web.
+
+Je participe au développement de (link: page://NvJpTQcGv4JEXslm text: projets) avec de l'HTML / CSS aux petits oignons, du JS lorsque ce c'est nécessaire. 
+J'ai à cœur de produire un code propre, réutilisable, accessible dans le but d'offrir une expérience la plus complète et agréable à tous et toutes les utilisatrices.
+
+## Quelques projets
+
+Dis Moi
 
 ----
 

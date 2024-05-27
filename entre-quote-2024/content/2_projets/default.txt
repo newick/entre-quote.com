@@ -1,0 +1,87 @@
+Title: Projets
+
+----
+
+Text:
+
+## Liste
+- Bipolar
+- Clearblue
+- Utopisme
+- Unaforis
+- Lamo
+- Gironde Numérique : Open signature et multicanal
+- territoires en transition
+- Groupe Adène Intranet
+- Groupe Adène Front
+- CDC Habitat - DS
+- Ateliers Kennedy
+- Synapsun
+- Pulx
+- ZideeUp
+- CDC - Portail client + prise de RV
+- Classe à 12
+- Pink Lady (Pages boutique (2013),  club pro (2013))
+- Comexposium (Cartes, Expobois, Equip'Auto, Milipol)
+- 750g
+- Kawneer 
+- It-gnosis
+- Bach'up
+- Brico cash
+- Sacma
+- IdRezo
+- Hotel Lapeyronie
+- Comiti
+- Roitelet
+- Aful
+- Smile 
+- Schneider Electrics
+- Atelier des chefs
+- AER
+- boltidictionary.com
+- seaquarium
+- MTA
+- Ateliers Kennedy
+- iscra
+- Merci Cookies
+- Mediapart
+- Open Data for Resilience Index
+- Bulles puis Dis Moi
+- Eurordis base contact
+- CDC - espace location
+- CDC - compte
+- Human Coders
+- BabyZen
+- LBB
+- Clause sociale de formation
+- CDC - Partenaires et actions Copro
+- CDC - invivo
+- 
+
+
+
+
+## Facturé
+### Sélection
+
+- DisMoi
+- CDC
+- BetaGouv
+  - DSFRisation (Territoires en transition, ANCT : Multicanal, OpenSignature)
+  - CA12 / DF
+- Drupal 
+
+## tri par actions :
+- Design System : Beta, CDC, DisMoi
+- Sites vitrines
+- 
+
+### + vieux
+
+## À côté
+
+- Scribouilli
+
+----
+
+Uuid: NvJpTQcGv4JEXslm

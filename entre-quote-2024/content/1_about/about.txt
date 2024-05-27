@@ -14,7 +14,7 @@ Librement inspiré de la chanson "Auberge de Jeunesse" chantée par CharlÉli Co
 ## Gagner de quoi nourrir le corps
 
 Je gagne ma vie en tant qu'**intégrateur web** depuis plus de 15 ans. 
-Je travaille sur des produits basés sur les technologies de l'Internet modernes sur des (link: page://NvJpTQcGv4JEXslm text: projets) divers.
+Je travaille sur des produits basés sur les technologies de l'Internet moderne sur des (link: page://NvJpTQcGv4JEXslm text: projets) divers.
 
 J'ai à cœur d'offrir une expérience la plus agréable possible à l'utilisateur·ice. Pour cela j'utilise du HTML sémantique et du CSS aux petits oignons. Quand il faut rajouter du JS je le fais de façon minimaliste.
 Je n'ai pas de langage de développement de prédilection, je préfère laisser cela aux développeur·euses avec qui je travaille et je m'adapte.
@@ -43,6 +43,13 @@ Où comment on est passé d'un projet de supermarché coopératif à une épicer
 Offrir un lieu et un moment de don / récupération sans notion d'argent. 
 En gagner la joie de voir des personnes repartir avec des objets qui leur font plaisir et de permettre à des choses qui sont considérées comme inutiles  d'avoir une nouvelle vie. 
 Et perdre des points de foi dans l'humanité quand on regarde ce que certaines personnes donnent, du cassé, du sale, du pas complet.
+
+
+## Transmettre
+
+- octobre 2013 : La relation intégrateur + designer, pour un design pas terne ! https://www.clubic.com/salons-high-tech/actualite-589080-blend-web-mix-designers-melangent-developpeurs.html
+- 12/02/2013 : https://humantalks.com/talks/99-presentation-de-la-notice-accessibilite-html-css-d
+- 10/07/2012 : https://humantalks.com/talks/3-la-magie-du-zen-coding
 
 ----
 

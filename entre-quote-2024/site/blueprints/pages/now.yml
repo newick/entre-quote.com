@@ -1,0 +1,13 @@
+title: À propos
+
+sections:
+  fields:
+    type: fields
+    fields:
+      date:
+        label: Date de modification
+        type: date
+        display: DD/MM/YYYY
+      text:
+        type: textarea
+        size: huge

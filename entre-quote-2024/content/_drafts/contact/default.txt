@@ -1,0 +1,15 @@
+Title: Contact
+
+----
+
+Text:
+
+Pour me contacter : 
+- je préfère que l'on commence par (link: mailto:erick@entre-quote.com text: email) ;
+- je partage pas mal sur (link: https://oisaur.com/@erick text: Mastodon) ;
+- j'ai un compte (link: https://www.linkedin.com/in/erickgardin/ text: Linkedin), je ne pas pas trop pourquoi mais il existe ;
+- si un jour vous avez mon numéro je préfère les échanges par Signal et que l'on organise un appel en dernier recours.
+
+----
+
+Uuid: 2Fhsv5eNjFgt4q3b

@@ -1,0 +1,27 @@
+Title: Liens
+
+----
+
+Text:
+
+## Je n'hésite pas à bosser avec elleux
+
+- (link: http://juliepoignot.com/ text: Julie Poignot - UX designer)
+- (link: http://www.aymericfaivre.com/ text: Aymeric Faivre - directeur artistique, UX / UI designer)
+- (link: https://maiwann.net/ text: Maiwann - UX / UI designer)
+- (link: https://ynote.hk/ text: Fanny Cheung - développeuse, explorartiste)
+
+## Structures avec qui j'ai apprécier travailler
+
+- (link: https://www.plume.fr/ text: Plume)
+- (link: http://wcbh.agency/ text: WCBH)
+- (link: https://happyculture.coop/ text: Happyculture)
+- (link: http://scopyleft.fr/ text: Scopyleft)
+
+## De la veille de qualité
+
+## Je kiffe
+
+----
+
+Uuid: astQf1tZOI0ngAFD

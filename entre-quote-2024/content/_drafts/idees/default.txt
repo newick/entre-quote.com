@@ -2,7 +2,27 @@ Title: Idées
 
 ----
 
-Text: 
+Text:
+
+## Autour du code
+
+### Écrire sur Kirby
+
+Je pratique régulièrement ce CMS, je le trouve très agréable donc autant en parler et surement monter en compétences
+
+### Faire un un annuaire de liens cools
+J'utilise actuellement (link: https://flus.fr/ text: Flus) mais ce n'est pas centralisé ici et ça me sert plus à un Read-it later (qui a dit Pocket ou Wallabag).
+Kirby m'a l'air de faire ça facilement. Ou peut-être une autre solution technologique.
+Inspiré par celui de (link: https://wiki.lalutineduweb.fr/ text: Julie).
+
+### Alternative à Mapstr
+
+Je suis fan de l'idée depuis longtemps. On avait commencé un truc avec (link: http://davidbruant.github.io/ text: David) et la vie est passée par là.
+J'ai toujours envie de jouer avec la carto, tester (link: https://svelte.dev/ text: Svelte).
+
+## Sans code
+- Me former au travail du bois
+- Me former à la couture
 
 ----
 

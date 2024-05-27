@@ -1,0 +1,49 @@
+/* https://www.leereamsnyder.com/write-css-not-too-much-mostly-scoped */
+@layer {
+}
+:root {
+  --var: "";
+}
+body {
+  /* font-size: clamp */
+}
+:has {
+}
+:is {
+}
+:where {
+}
+
+a {
+  text-decoration: none;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 2.5rem;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+}
+
+.main-nav ul {
+  display: flex;
+  gap: 2rem;
+  list-style-type: "";
+}
+
+.main-nav a::before,
+.main-nav a::after {
+  content: '"';
+  color: transparent
+}
+
+.main-nav a:hover::before,
+.main-nav a:hover::after {
+  content: '"';
+  color: inherit;
+}
