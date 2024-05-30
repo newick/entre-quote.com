@@ -1,0 +1,40 @@
+Title: Liste de changements
+
+----
+
+Text:
+
+## 2024
+Nouvelle page : un CV demandé par un client pour un appel d'offre.
+Et si je faisais du vrai contenu ?
+Le choix de Kirby est évident, je l'utilise régulièrement pour mes client·es.
+D'abord je crée la structure, puis le contenu dans le CMS
+Ensuite j'imagine les templates, puis j'y ajoute du style.
+
+## 2023
+J'enlève le lien vers Twitter pour le remplacer par Mastodon.
+
+## 2019
+J'arrête de payer un hébergement inutilement et mets la page sur Github
+Je vire Google Analytics, je n'ai pas du tout besoin de savoir qui va sur mon site et encore moins que Google ait des infos sur mes visiteur·ices.
+
+## 2014
+La nappe Vichy disparait au profit d'un fond sombre.
+Le steak se met à couler.
+La typo passe à Klinic Slab Font.
+L'image de Twitter disparait, un lien est suffisant.
+
+## 2011
+Je passe indépendant, il est temps d'avoir un portfolio. 
+C'est le moment où on cowork beaucoup à la maison avec Aymeric. Il valide le nom entre-quote. 
+Pour rappel "quote" veut dire guillemet en anglais, ça fait un jeu de mot cool et en plus j'aime la nourriture.
+Bon dans l'histoire j'ai oublié le "s" parce qu'il faut 2 guillemets pour du contenu entre… Premier loupé.
+
+On fait donc ensemble un logo un peu style d'une entrecôte à partir d'une photo prise au magasin d'à côté.
+La page ressemble à une nappe Vichy avec la mention "sur place où à emporter" avec la typographie Lobster soutenu par Verdana.
+
+La page est faite en HTML / CSS avec juste mes contacts email, téléphone, Twitter.
+
+----
+
+Uuid: dttYSGQKB6vINPPG

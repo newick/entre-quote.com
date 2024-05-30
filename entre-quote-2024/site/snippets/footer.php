@@ -1,15 +1,17 @@
-  <footer>
-      <a href="mentions-legales">Mentions légales</a>
+    <footer>
+      <?php $menu = $site->footerNav()->toPages(); ?>
 
-      <div>
-        Me contacter :
+      <nav class="footer-nav">
         <ul>
-          <li>
-            <a href="https://oisaur.com/@erick">Sur Mastodon</a>
-          </li>
-          <li><a href="mailto:erick@entre-quote.com">Par email</a></li>
+          <?php foreach ($menu as $menuItem): ?>
+              <li>
+                <a <?php e($menuItem->isOpen(), 'aria-current="page"') ?> href="<?= $menuItem->url() ?>">
+                  <?= $menuItem->title() ?>
+                </a>
+              </li>
+          <?php endforeach ?>        
         </ul>
-      </div>
+      </nav>
     </footer>
   </body>
 </html>

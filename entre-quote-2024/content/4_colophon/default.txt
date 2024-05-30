@@ -1,0 +1,20 @@
+Title: Mentions légales et colophon
+
+----
+
+Text:
+
+Site construit avec (link: https://getkirby.com/ text: Kirby) 🩶. 
+
+Le thème est fait maison avec HTML et CSS. 
+La typographie c'est Nom de la typo. 
+Tout est détaillé dans la page (link: page://Td380lVBwpomijb2 text: Guide de styles).
+
+Maintenant il est surement chez Infomaniak.
+
+Pour en discuter, la page (link: page://2Fhsv5eNjFgt4q3b text: Contact) explique comment me joindre.
+L'évolution du site se trouve dans la page (link: page://dttYSGQKB6vINPPG text: /changelog)
+
+----
+
+Uuid: uo2zbICQC8qBUaBv

@@ -1,1 +1,22 @@
 Title: entre-quote
+
+----
+
+Mainnav:
+
+- page://IRvmrDoI8KE6V27u
+- page://NvJpTQcGv4JEXslm
+
+----
+
+Footernav:
+
+- page://uo2zbICQC8qBUaBv
+- page://2Fhsv5eNjFgt4q3b
+
+----
+
+Pages:
+
+- page://IRvmrDoI8KE6V27u
+- page://NvJpTQcGv4JEXslm

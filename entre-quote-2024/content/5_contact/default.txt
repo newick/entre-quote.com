@@ -4,11 +4,22 @@ Title: Contact
 
 Text:
 
-Pour me contacter : 
+## Pour me contacter : 
+
 - je préfère que l'on commence par (link: mailto:erick@entre-quote.com text: email) ;
 - je partage pas mal sur (link: https://oisaur.com/@erick text: Mastodon) ;
 - j'ai un compte (link: https://www.linkedin.com/in/erickgardin/ text: Linkedin), je ne pas pas trop pourquoi mais il existe ;
+- je n'ai pas WhatsApp, n'utilise pas Instagram pour partager des photos ; 
 - si un jour vous avez mon numéro je préfère les échanges par Signal et que l'on organise un appel en dernier recours.
+
+## Je n'ai pas ou ne partage rien sur : 
+- WhatsApp ; 
+- Instagram ;
+- Facebook et encore moins Messenger ;
+- Twitter ;
+- la majorité des réseaux sociaux privateurs de liberté
+
+Basé sur les pages (link: https://alastairjohnston.com/introducing-hello-pages/ text: Hello)
 
 ----
 

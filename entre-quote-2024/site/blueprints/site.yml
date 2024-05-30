@@ -1,5 +1,25 @@
 title: Site
 
-sections:
+
+
+tabs:
   pages:
-    type: pages
+    label: Contenu
+    sections:
+      pages:
+        type: pages
+        layout: cards
+
+  header:
+    label: Header
+    fields:
+      mainNav:
+        label: Navigation principale
+        type: pages
+
+  footer:
+    label: Footer
+    fields:
+      footerNav:
+        label: Navigation du footer
+        type: pages

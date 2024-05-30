@@ -13,16 +13,18 @@
 
     <header>
       <a href="<?= $site->url() ?>" class="logo">entre-quote</a>
-      
+
+      <?php $menu = $site->mainNav()->toPages(); ?>
+
       <nav class="main-nav">
         <ul>
-          <?php foreach ($site->children()->listed() as $item): ?>
-              <li>
-                <a <?php e($item->isOpen(), 'aria-current="page"') ?> href="<?= $item->url() ?>">
-                  <?= $item->title()->esc() ?>
-                </a>
-              </li>
-          <?php endforeach ?>
+          <?php foreach ($menu as $menuItem) : ?>
+            <li>
+              <a <?php e($menuItem->isOpen(), 'aria-current="page"') ?> href="<?= $menuItem->url() ?>">
+                <?= $menuItem->title() ?>
+              </a>
+            </li>
+          <?php endforeach ?>        
         </ul>
       </nav>
     </header>

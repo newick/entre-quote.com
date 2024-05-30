@@ -1,0 +1,94 @@
+Title: J'utilise
+
+----
+
+Text:
+
+## Matériel
+
+💻 Ordinateur : Macbook Air 13" avec 8go de RAM de 2020 acheté sur leboncoin 
+avec un (link: https://uniaccessories.com/products/usb-c_8in1_hub text: hub USB C uni)
+⌨️ Clavier : Apple Magic Keyboard
+🖱️Souris : Logitech G203
+🖥️ Écran (link: https://iiyama.com/fr_fr/produits/prolite-e2209hds-1/ text: iiyama 22")
+📱 Téléphone : Google Pixel 3 avec (link: https://e.foundation/ text: /e/ OS), reconditionné par (link: https://smaaart.fr/ text: SMAAART), pas loin de chez moi
+Casque : Jabra Elite 85h
+Liseuse : Vivlio Touch HD plus
+Console : Nintendo Switch, Xbox 360
+
+## Applications :
+
+📮 Emails : Protonmail (pro) et Migadu (perso)
+✅ To-Do: (link: https://todoist.com/fr text: Todoist)
+📆 Calendar: Todoist
+📁 Stockage en ligne : Nextcloud
+🙍🏻‍♂️ Contacts : Nextcloud synchronisé avec (link: https://www.davx5.com/ text: DAVx⁵)
+🔎 Recherche : DuckDuckGo
+🔐 Gestionnaire de mots de passe : Bitwarden
+
+## Pour travailler
+
+### Applications : 
+- Éditeur : (link: https://vscodium.com/ text: VSCodium)
+   Extensions : 
+     - Auto Close Tag,
+     -  Auto Rename Tag,
+     -  HTML CSS Support,
+      - Prettier, 
+- Terminal: iTerm2 + (link: https://ohmyz.sh/ text: Oh My Zsh)
+- Serveur PHP : Mamp et (link: https://herd.laravel.com/ text: Herd)
+- Containers : OrbStack ou Docker
+- Design : (link: https://penpot.app/ text: Penpot), Figma
+- Suivi du temps : (link: https://track.toggl.com/ text: Toggle Track)
+- FTP : FileZilla
+- Compression d'images : ImageOptim, (link: https://jakearchibald.github.io/svgomg/ text: SVGOMG)
+- Firefox : 
+  Extensions
+     - uBlock Origin
+     - Flus
+     - Bitwarden
+     - Wave Evaluation Tool
+     - axe DevTools
+- Chrome : 
+Extension :
+     - Accessibility Insights
+
+### Code :
+- HTML
+- CSS / Sass
+- JS (Vanilla, React, jQuery)
+- PHP (Kirby, Drupal, Grav)
+
+## Sur ordinateur
+✉️ Emails : Thunderbird
+📝 Notes: (link: https://www.marktext.cc/ text: MarkText)
+📖 RSS: FreshRSS fourni par (link: https://rss.flus.fr text: Flus)
+🌐 Navigateurs : Firefox en principal et Chrome / Safari pour tester
+💬 Chat: Signal, Slack, Keybase, Mattermost, Jitsi
+🔖 Favoris : (link: https://flus.fr/ text: Flus)
+📑 Read It Later: (link: https://flus.fr/ text: Flus)
+Musique : Spotify
+
+## Sur mobile
+📲 Gestionnaire d'application : F-Droid + App Lounge de /e/ OS
+🌐 Navigateur : Fennec
+🐘 Mastodon : Tusky
+✉️ Emails : FairEmail + Protonmail
+💬 Chat : Signal
+📷 Photos : (link: https://f-droid.org/packages/net.sourceforge.opencamera/ text: Open Camera) 
+🎥 Vidéos : NewPipe
+🗺️ GPS : Organic Maps
+🔒2FA : andOTP
+📍Contribution OSM : StreetComplete
+
+\---- 
+
+A regarder : 
+https://rectangleapp.com/
+
+🪟 Window Manager: Amethyst and Magnet
+    🚀 Launcher: Raycast
+
+----
+
+Uuid: 5eUEe9yQY5l811jK
