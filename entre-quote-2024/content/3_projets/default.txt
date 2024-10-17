@@ -2,6 +2,10 @@ Title: Projets
 
 ----
 
+Slash: false
+
+----
+
 Text:
 
 ## Liste

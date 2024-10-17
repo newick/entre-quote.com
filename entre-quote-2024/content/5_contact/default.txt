@@ -2,6 +2,10 @@ Title: Contact
 
 ----
 
+Slash: true
+
+----
+
 Text:
 
 ## Pour me contacter : 

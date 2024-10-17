@@ -2,6 +2,10 @@ Title: Liens
 
 ----
 
+Slash: true
+
+----
+
 Text:
 
 ## Je n'hésite pas à bosser avec elleux

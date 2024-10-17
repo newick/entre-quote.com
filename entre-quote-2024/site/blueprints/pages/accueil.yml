@@ -1,11 +1,18 @@
 title: Accueil
+icon: 🏠
 
 sections:
   fields:
     type: fields
     fields:
       intro:
+        label: Intro
         type: textarea
-      text:
-        type: textarea
-        size: huge
+
+      services:
+        label: Services
+        type: structure
+        fields:
+          service:
+            label: Nom du service
+            type: text

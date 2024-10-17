@@ -1,14 +1,24 @@
 title: Site
 
-
-
 tabs:
   pages:
     label: Contenu
     sections:
-      pages:
+      principales:
+        label: Pages principales
         type: pages
-        layout: cards
+        query: site.children.listed.not(kirby.collection("slashpages"))
+
+      slashpages:
+        label: Slash pages
+        type: pages
+        query: site.children.filterBy("slash", "true")
+
+      autres:
+        label: Autres pages
+        type: pages
+        query: site.children.unlisted.not(kirby.collection("slashpages"))
+
 
   header:
     label: Header
@@ -23,3 +33,11 @@ tabs:
       footerNav:
         label: Navigation du footer
         type: pages
+
+  all:
+    label: Toutes les pages
+    fields:
+      pages:
+        type: pages
+        layout: cards
+        size: small

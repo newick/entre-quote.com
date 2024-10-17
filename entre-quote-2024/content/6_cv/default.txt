@@ -2,6 +2,10 @@ Title: CV
 
 ----
 
+Slash: true
+
+----
+
 Text: https://entre-quote.com/CV
 
 ----

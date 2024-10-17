@@ -2,7 +2,13 @@ Title: Idées
 
 ----
 
+Slash: true
+
+----
+
 Text:
+
+Des idées de trucs que je pourrai faire, si vous êtes intéressé·es on peut (link: page://2Fhsv5eNjFgt4q3b text: en parler).
 
 ## Autour du code
 

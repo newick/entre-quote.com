@@ -4,6 +4,7 @@ sections:
   fields:
     type: fields
     fields:
+      slash: fields/slash
       date:
         label: Date de modification
         type: date

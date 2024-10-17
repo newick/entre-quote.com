@@ -2,6 +2,10 @@ Title: J'utilise
 
 ----
 
+Slash: true
+
+----
+
 Text:
 
 ## Matériel

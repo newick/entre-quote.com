@@ -1,6 +1,6 @@
 <?php snippet('header') ?>
 
-  <main id="content">
+  <main>
     <section>
       <h1><?= $page->title() ?></h1>
       <p>Date de la dernière modification : <?= $page->date()->toDate('d/m/Y') ?></p>
